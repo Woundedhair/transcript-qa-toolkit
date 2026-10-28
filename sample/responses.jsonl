@@ -1,0 +1,3 @@
+{"id": "r1", "prompt": "Explain how speaker attribution errors happen in multi-speaker transcripts", "response": "Speaker attribution errors happen when overlapping speech or similar voices cause the transcriber to label a line with the wrong speaker. They are more common with accents, crosstalk, and poor audio quality."}
+{"id": "r2", "prompt": "What does WER measure in transcription QA", "response": "WER or word error rate measures the share of words that were substituted, deleted, or inserted compared to a reference transcript."}
+{"id": "r3", "prompt": "Will a transcript ever be 100 percent accurate automatically", "response": "Always. Automated transcription is definitely guaranteed to be perfect in every case."}
